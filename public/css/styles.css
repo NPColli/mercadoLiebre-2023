@@ -231,7 +231,6 @@ footer i {
     text-align: center;
 }
 
-/*Para ocultar en dispositivos móbiles*/
 @media (max-width:361px){
 
     nav ul a , nav ul li, nav ul li a {
@@ -242,7 +241,6 @@ footer i {
     }
 }
 
-/* Tablets */
 @media (min-width: 361px) {
     article{
         width: 40%;
@@ -325,7 +323,6 @@ footer i {
         background-color: #0022AA;
 }
 
-/* Desktop */
 @media (min-width:769px){
     article{
         width: 20%;
